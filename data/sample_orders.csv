@@ -1,0 +1,11 @@
+order_id,order_date,customer,product,quantity,price,region,sales
+1001,2026-01-03,Aarav,Laptop,2,62500,North,125000
+1002,2026-01-04,Diya,Phone,5,19600,West,98000
+1003,2026-01-05,Vivaan,Tablet,4,19000,South,76000
+1004,2026-01-06,Anaya,Monitor,6,9000,East,54000
+1005,2026-01-07,Arjun,Keyboard,10,3200,North,32000
+1006,2026-01-08,Isha,Laptop,3,62500,West,187500
+1007,2026-01-09,Kabir,Phone,7,19600,South,137200
+1008,2026-01-10,Meera,Tablet,2,19000,East,38000
+1009,2026-01-11,Rohan,Monitor,4,9000,North,36000
+1010,2026-01-12,Saanvi,Keyboard,8,3200,West,25600

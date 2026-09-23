@@ -1,0 +1,12 @@
+# Local configuration and generated database data
+.env
+data/*.db
+
+# Python build artifacts
+__pycache__/
+*.py[cod]
+
+# Virtual environments and editor settings
+.venv/
+venv/
+.vscode/
